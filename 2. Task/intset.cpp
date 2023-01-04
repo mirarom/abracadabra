@@ -13,7 +13,7 @@ IntSet::IntSet(IntSet& s);{
 	
 
 }
-
+ 
 int IntSet::Max(){
 	max = right;
 	for(int i = 0; i < power + 1; i++){
