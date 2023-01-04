@@ -18,7 +18,7 @@ void initialise_random_double(Array<double> & array) {
 
 int main()
 {          
-  try{ 
+  try{
     Array<int>  aaaa; 
     aaaa.Add(123); 
 

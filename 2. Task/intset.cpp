@@ -11,7 +11,7 @@ void IntSet::Push(int element) {
 
 IntSet::IntSet(IntSet& s);{
 	
-
+ 
 }
  
 int IntSet::Max(){

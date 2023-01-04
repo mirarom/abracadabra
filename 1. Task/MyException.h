@@ -8,7 +8,7 @@ enum ErrorCode            // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï
    EC_RANGE = -3,
    EC_MEMORY = -2,
    EC_UNKNOWN = -1,
-   EC_OK = 0 
+   EC_OK = 0
 };
 
 class MyException
