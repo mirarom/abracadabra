@@ -142,7 +142,7 @@ void Array<T>::Insert(size_t insert_index, const T & x)
 //  �������� ����� ������� �� i �� size-1 �� ���� ������� �����
 //  value[i] = x;
 }
-  
+
 template <class T>
 T & Array<T>::operator[](size_t i)
 {

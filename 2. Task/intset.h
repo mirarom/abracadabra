@@ -7,7 +7,7 @@ class IntSet{
 		int left;
 		int right;
 		int min;
-		int max; 
+		int max;
 		int *set;
 		int power = right - left;
 		

@@ -11,7 +11,7 @@ enum ErrorCode            // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï
    EC_OK = 0
 };
 
-class MyException
+class MyException 
 {
    char message[256];
    ErrorCode  code;
